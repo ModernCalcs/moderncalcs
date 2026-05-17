@@ -14,6 +14,33 @@ ModernCalcs is a free, open-access utility platform with 70+ specialized tools d
 All calculations are **100% client-side** — your financial data, health metrics, and sensitive tokens never leave your browser.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![ModernCalcs Homepage](screenshots/homepage.png)
+
+### 💰 Finance Hub
+
+![ModernCalcs Finance Hub](screenshots/finance.png)
+
+### 💻 Developer Tools
+
+![ModernCalcs Developer Tools](screenshots/developer.png)
+
+### 🏥 Health & Fitness
+
+![ModernCalcs Health](screenshots/health.png)
+
+### 🏠 Interior & Construction
+
+![ModernCalcs Interior](screenshots/interior.png)
+
+### 🔧 Daily Utilities
+
+![ModernCalcs Utilities](screenshots/utilities.png)
+
+---
 
 ## 🧮 Finance Calculators (India-focused)
 
